@@ -79,9 +79,18 @@ body {
     border-radius: 5px;
     box-shadow: 5px 5px gainsboro;
   }
+  .card h3{
+    margin-top: 2rem !important;
+  }
+  .card p{
+    margin-bottom: 3rem !important;
+  }
+  
   .Bottom{
     padding: 30px;
+    margin-bottom: 50px;
   }
+  
   .card1{
     border-radius: 5px;
     padding: 30px;
@@ -93,4 +102,10 @@ body {
     padding: 30px;
     color: white;
     background-color: red;
+  }
+  .card1  p{
+    margin-bottom: 3rem !important;
+  }
+  .card2  p{
+    margin-bottom: 3rem !important;
   }
